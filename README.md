@@ -2,7 +2,7 @@
 ## 💫 About Me:
 * :adult: My name is Jonathan and i have 25 years old;
 * :telescope: My goal is to collaborate as a software developer;
-* :books: I study Systems Analysis and Development at FATEC;
+* :books: I study Systems Analysis and Development at FATEC and Systems Development at SENAI;
 * :office: I work as a Support Analyst
 * :star: I seek to collaborate with open-source projects
 * :heart: I love sports, cooking, sitcoms, anime and games.
