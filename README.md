@@ -1,11 +1,11 @@
 # Hey, welcome!
 ## 💫 About Me:
-* :adult: My name is Jonathan and i have 26 years old;
-* :telescope: My goal is to collaborate as a software developer;
-* :books: I study Systems Analysis and Development at FATEC;
+* :adult: My name is Jonathan and i have 26 years old
+* :telescope: My goal is to collaborate as a software developer
+* :books: I study Systems Analysis and Development at FATEC
 * :office: I work as a Support Analyst
 * :star: I seek to collaborate with open-source projects
-* :heart: I love sports, cooking, sitcoms, anime and games.
+* :heart: I love sports, cooking, sitcoms, anime and games
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/hattoriBanza) 
